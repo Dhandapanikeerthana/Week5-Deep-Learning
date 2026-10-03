@@ -1,10 +1,10 @@
-# Deep Learning Application in Data Science
+# 🧠 Deep Learning Application in Data Science
 
-## Banknote Authentication using Neural Network
+## 💳 Banknote Authentication using Neural Network
 
 This project applies a Deep Learning neural network to the Banknote Authentication dataset. The objective is to build a binary classification model that can identify whether a banknote is **Authentic** or **Forged** based on four numerical features extracted from banknote images.
 
-## Problem Statement
+## 🎯 Problem Statement
 
 Banknote authentication is an important classification problem where the characteristics of a banknote can be analyzed to determine whether it is genuine or forged.
 
@@ -20,7 +20,7 @@ The model predicts one of two classes:
 - `0` – Authentic
 - `1` – Forged
 
-## Dataset
+## 📊 Dataset
 
 The dataset used is the **Banknote Authentication Dataset** from the UCI Machine Learning Repository.
 
@@ -36,7 +36,7 @@ The dataset was divided into:
 
 Feature scaling was performed using `StandardScaler` before training the neural network.
 
-## Neural Network Architecture
+## 🏗️ Neural Network Architecture
 
 The deep learning model was developed using **TensorFlow and Keras**.
 
